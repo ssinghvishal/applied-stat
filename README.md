@@ -1,0 +1,2 @@
+# applied-stat
+project
